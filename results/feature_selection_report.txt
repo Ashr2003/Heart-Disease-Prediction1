@@ -1,0 +1,9 @@
+========== FEATURE SELECTION REPORT ==========
+
+RandomForest Top Features:
+thalch, chol, oldpeak, age, trestbps, ca, thal_reversable defect, thal_normal, exang_True, restecg_normal
+
+RFE Selected Features: ['ca', 'cp_non-anginal', 'cp_typical angina', 'slope_upsloping', 'thal_reversable defect']
+
+Chi-Square Selected Features: ['thalch', 'oldpeak', 'ca', 'thal_normal', 'thal_reversable defect']
+

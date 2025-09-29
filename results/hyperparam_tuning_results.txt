@@ -1,0 +1,15 @@
+Best Random Forest Params: {'max_depth': 5, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 50}
+Best RF Accuracy: 0.5333333333333333
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      1.00      0.85        32
+           1       0.00      0.00      0.00        11
+           2       0.00      0.00      0.00         7
+           3       0.00      0.00      0.00         7
+           4       0.00      0.00      0.00         3
+
+    accuracy                           0.53        60
+   macro avg       0.15      0.20      0.17        60
+weighted avg       0.40      0.53      0.46        60
